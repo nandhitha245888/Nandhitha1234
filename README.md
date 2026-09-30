@@ -1,2 +1,2 @@
-# Nandhitha1234
+# Nandhitha
 C programming laboratory 
