@@ -1,2 +1,0 @@
-# Nandhitha
-C programming laboratory 
